@@ -3,8 +3,7 @@ scikit-learn
 pandas==2.3.3
 numpy==2.2.6
 seaborn==0.13.2
-nltk==3.9.1
 opencv-python
-re==2.2.1
+
 
 
